@@ -22,7 +22,6 @@ I enjoy working across the stack and care deeply about **clean code, scalability
 - Backend development using **Node.js, Express.js, FastAPI**  
 - Frontend development with **React, HTML, CSS**  
 - Working with **MongoDB & MySQL**  
-- **Docker-based containerization** for development and deployment  
 - Version control and collaboration using **Git & GitHub**
 
 ---
